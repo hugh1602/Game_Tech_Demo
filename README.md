@@ -1,7 +1,6 @@
 # Git
 # First Game Tech Demo
 ## [Demo_Link](https://drive.google.com/drive/folders/1yUVkPTOCSIZQA7EqKCbtzllZFNxvEINJ?usp=sharing)
-#### Note: it has no menus, quite game via Task Manager or Alt-Tab to desktop then close the game.
 
 
 
